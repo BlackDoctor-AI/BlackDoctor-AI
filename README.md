@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BlackDoctor-AI&show_icons=true&theme=dark&count_private=true)
 # github语言数据
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoctor-AI&theme=dark&layout=compact)
-<!-- # GitHub 数据统计
+<!-- # GitHub 数据统计 -->
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
